@@ -43,18 +43,18 @@ python main.py
 
 ## Project Structure
 
-morseCodeDecoder/
-│
-├── morseCodeDecoder/
-│   ├── assests/
+morseCodeDecoder/  
+│  
+├── morseCodeDecoder/  
+│   ├── assests/  
 │   │     └─ (icons and pngs)  
-│   ├── pythonApp/
-│   │   ├─ `constants.py`
-│   │   ├─ `main.py`
-│   │   ├─ `requirements.txt`
-│   │   └─ `utils.py`
-│   └── `Form1.cs`
-└── `morseCodeDecoder.sln`
+│   ├── pythonApp/  
+│   │   ├─ `constants.py`  
+│   │   ├─ `main.py`  
+│   │   ├─ `requirements.txt`  
+│   │   └─ `utils.py`  
+│   └── `Form1.cs`  
+└── `morseCodeDecoder.sln`  
 
 ## Troubleshooting
 -  Insure Python and dependencies are installed successfully.
